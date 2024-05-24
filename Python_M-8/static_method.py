@@ -3,6 +3,7 @@
 #class level method is called as atatic methods
 # @staticmethod-decorator
 
+#static method can not access and modify the class state & generally for utility
 class Car:
     @staticmethod #decorator -static method(take a function as input and change the behaviour of the function and return the function)
     def greeting():

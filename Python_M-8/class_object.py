@@ -10,3 +10,6 @@ std1=Student() #object
 print(std1.name)#aman
 
 #class is a collection of data member and members function
+
+# @setattr-decorator
+# @getattr-decorator

@@ -59,3 +59,19 @@
    6. with keyword
    7. modes
    8. some problems
+
+## Module-8
+   1. class and object
+   2. constructor
+   3. static method -decorator
+   4. abstrction
+   5. encapsulation
+   6. polymorphism
+   7. inheritance
+   8. types of inheritance
+   9. dunder function
+   10. class method -decorator
+   11. property -decorator
+   12. addition of complex number using dunder function
+   13. super,del, private 
+   14. some problems

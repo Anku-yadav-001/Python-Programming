@@ -1,0 +1,8 @@
+#Ploymorphism-when the same operator is allowed to have different meaning according to the context  
+a=10
+b=20
+print(a+b)
+print("aman"+"yadav")
+print([1,2,3,4]+[5,4,5,6,5])
+
+# that is what operator overloading
