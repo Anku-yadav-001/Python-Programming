@@ -6,16 +6,16 @@
 #like as array
 
 marks=[23,43,65,77,99,66,66]
-#print(marks) #[23,43,65,77,99,66,66]
-#print(marks[0]) #23
+print(marks) #[23,43,65,77,99,66,66]
+print(marks[0]) #23
 
 details=["aman",19,"narmadapuram"]
-#print("Name: ",details[0]) #aman
-#print("Age: ",details[1])  #19
-#print("Address: ",details[2]) #Narmadapuram
+print("Name: ",details[0]) #aman
+print("Age: ",details[1])  #19
+print("Address: ",details[2]) #Narmadapuram
 
 #SLICING
-#print(marks[2:6]) #[65, 77, 99, 66]
+print(marks[2:6]) #[65, 77, 99, 66]
 
 #LIST METHODS
 lists=[5,3,2,6,8,4,5]
