@@ -9,7 +9,7 @@
    6. type conversion
    7. variables
    8. input taking
-
+</hr>
 ## Module-2
    1. string
    2. string functions
@@ -17,14 +17,14 @@
    4. if-elif-else
    5. nested if-else
    6. break & continue
-
+</hr>
 ## Module-3
    1. list
    2. list methods
    3. tuple
    4. tuple methods
    5. some problems
-
+</hr>
 ## Module-4
    1. dictionary
    2. neasted dictionary
@@ -32,7 +32,7 @@
    4. set
    5. set methods
    6. some problems
-
+</hr>
 ## Module-5
    1.  loops
    2. while loop
@@ -41,14 +41,14 @@
    5. for in
    6. pass
    7. problems
-
+</hr>
 ## Module-6
    1. function 
    2. inbuild function
    3. user defined function
    4. recursion
    5. some problems
-
+</hr>
 ## Module-7
    1. file I/O
    2. read file
