@@ -18,6 +18,8 @@
    4. if-elif-else
    5. nested if-else
    6. break & continue
+   7. f-string
+   8. doc-string and PEP 8
 ## Module-3
 
    1. list
